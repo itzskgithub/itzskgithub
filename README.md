@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shubham kumar</h1>
 
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragbcet&label=Profile%20views&color=0e75b6&style=flat" alt="anuragbcet" /> </p>
 
-- 🔭 I’m currently building *personal wealth management system.*
+- 🔭 I’m currently building *upskilling myself.*
 
-- 🌱 I’m currently learning *react.js.*
+- 🌱 I’m currently learning *front end.*
 
 - 👯 I’m looking to collaborate on *my current project.*
 
@@ -16,9 +16,9 @@
 
 - 💬 Ask me about *Web development ,New technologies ,and tech in stock market.*
 
-- 📫 Reach out me at *anuragbcet2023@gmail.com*
+- 📫 Reach out me at *shubhampandey8969@gmail.com*
 
-- ⚡ Fun fact *I think i will be a startup founder .*
+- ⚡ Fun fact *I think i am a good coder .*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
